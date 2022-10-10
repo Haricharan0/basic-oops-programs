@@ -19,7 +19,7 @@ class matrix
 		void display(void)
 		{
 			int i,j;
-			for{i=0;i<3;i++
+			for{i=0;i<3;i++}
 			{
 				cout<<"\n";
 				for{j=0;j<3;j++}
