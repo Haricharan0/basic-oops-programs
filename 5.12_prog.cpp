@@ -22,7 +22,7 @@ int sum(M m)
 }
 int main ()
 {
-	M n;
+	M n ;
 	void (M :: *pf) (int,int) = &M :: set_xy;
 	(n.*pf)(10,20);
 	cout << "sum = " << sum(n) << "\n";
