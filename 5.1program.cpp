@@ -6,7 +6,7 @@ class item
 	float cost;
 	public:
 		void getdata (int a,float b);                   //prototype declaration,
-		                                                // to be defined
+		                                                // to be defined,
 		
 		//function defined inside class 
 		void putdata(void)
