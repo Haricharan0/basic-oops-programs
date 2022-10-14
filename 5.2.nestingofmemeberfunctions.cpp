@@ -39,7 +39,7 @@ class binary
 void displayones (void)
 {
 	ones();
-	cout<<"\nthe 1's compliment of the above binary number is:<<s";
+	cout<<"\nthe 1's compliment of the above binary number is:"<<s;
 	
 }
 };
