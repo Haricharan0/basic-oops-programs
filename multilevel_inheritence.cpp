@@ -48,7 +48,7 @@ void result :: display(void)
 	put_marks();
 	cout << "total =" << total << "\n";
 }
-int main 
+int main()
 {
 	result student1;
 	student1.get_number(111);
